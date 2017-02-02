@@ -1,0 +1,65 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+#sm {
+  margin: 25px 10px 25px 10px;	
+  width: 24px;	
+  border-radius: 10px;
+}
+#sm:hover {
+  box-shadow: 0px 0px 10px 1px #888888;
+}
+nav {
+  background-color: #ffffff;
+  height: 160px;
+}
+nav a {
+  display: inline;
+  color: #333333;
+  margin: auto 0px auto 21px;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  color: #999999;
+}
+#navtext {
+  margin-top: 65px;
+  font-size: 16px;
+}
+#logo {
+  padding-top: 16px;
+}
+h3 {
+  font-family: 'Lobster', cursive;
+  margin-left: 10px;
+}
+p {
+  font-size: 14px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.container-fluid {
+  background-image: url("images/night-sunrise-72618.jpeg");
+  background-size: cover;
+  height: 500px;
+  margin-bottom: 150px;
+}
+.container {
+  width: 1000px;
+}
+.col-md-12 {
+  margin-bottom: 150px;
+}
+.no-padding div {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#box:hover {
+  opacity: 0.8;
+}
+footer {
+  text-align: center;
+  margin: 150px auto 40px auto;
+}
